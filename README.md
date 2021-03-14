@@ -1,5 +1,7 @@
 # Happy Birthday Plugin
 
+![Birthday Cake](https://github.com/fonzerelly/happy_birthday.py.dir/raw/master/images/birthday-cake.png)
+
 Wolltet ihr schon immer mal eine Geburtstagstorte die größer ist als ihr selbst? Mit diesem Plugin könnt ihr in Sekundenschnelle eine übergroße Minecraft-Torte vor Euch erscheinen lassen. Dieses Plugin wurde auf Basis von Daniel Brauns Buch [Let's play Minecraft programmieren lernen mit Python und Minecraft](https://www.daniel-braun.com/buch/lets-play-minecraft-programmieren-lernen-mit-python-und-minecraft-2-auflage/)
 
 ## Installation:
