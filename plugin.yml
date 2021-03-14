@@ -1,0 +1,7 @@
+name: HappyBirthday-Plugin
+main: HappyBirthdayPlugin
+version: 1.0
+commands:
+    happy_birthday:
+        description: Platziert HappyBirthday
+        usage: /happy_birthday <durchmesser>
